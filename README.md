@@ -95,12 +95,10 @@ RegisterNumber:212223240119
 
 
 **RTL realization Output:** 
-
 ![313413940-a956bea1-3deb-4d50-b5ea-879fef952341](https://github.com/velupradeep/study-of-basic-gates/assets/150329341/3245a17e-481f-4622-b69d-e6266da630f7)
 
 
 **RTL**
-
 ![313413956-d1c9529d-fc40-4d5d-8af6-5a0a56c8ba5f](https://github.com/velupradeep/study-of-basic-gates/assets/150329341/f99f872f-4d36-4106-b988-dae88ec7ff69)
 
 
@@ -108,5 +106,5 @@ RegisterNumber:212223240119
 
 **Result:**
 
-Thus the different digital IC’s are studied and the truth table for different logic gates are verified......
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
