@@ -1,5 +1,4 @@
-# NAME: PRADEEP V
-# REG NO:212223240119
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -63,6 +62,8 @@ Y= A⊕B
 
 
 **PROGRAM**
+
+
 Program for logic gates and verify its truth table in quartus using Verilog programming
 ```
 module logicsgates(a,b,y1,y2,y3,y4,y5,y6,y7);
@@ -79,24 +80,33 @@ endmodule
 
 
 ```
-Developed by:PRADEEP V RegisterNumber:212223240119
+
+```
+Developed by:PRADEEP V
+RegisterNumber:212223240119
+
+```
  
  
 **Logic symbol & Truthtable**
+
 ![313413910-edb71204-2e2c-4b7f-8e04-8a5f93e2564d](https://github.com/velupradeep/study-of-basic-gates/assets/150329341/93615853-2212-4936-a92f-c43f41bb3464)
 
 
 
 **RTL realization Output:** 
+
 ![313413940-a956bea1-3deb-4d50-b5ea-879fef952341](https://github.com/velupradeep/study-of-basic-gates/assets/150329341/3245a17e-481f-4622-b69d-e6266da630f7)
 
 
 **RTL**
+
 ![313413956-d1c9529d-fc40-4d5d-8af6-5a0a56c8ba5f](https://github.com/velupradeep/study-of-basic-gates/assets/150329341/f99f872f-4d36-4106-b988-dae88ec7ff69)
 
 
 
 
 **Result:**
+
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified......
 
