@@ -1,4 +1,4 @@
-# EX-01: STUDY_OF_BASIC_GATES
+# EX-01: Study-Of-Basic-Gates
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
